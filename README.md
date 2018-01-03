@@ -1,3 +1,7 @@
+# DEPRECATED
+
+»Coinvestor« has been renamed to »[Autopilot](https://github.com/rasshofer/autopilot)«. Please install and use it instead.
+
 # Coinvestor
 
 > A simple (CLI) tool to »Cost Average«-buy Bitcoin, Litecoin, and/or Ethereum using Coinbase or GDAX
